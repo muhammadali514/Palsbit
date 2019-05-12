@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "751808562695",
+    "firebase_url": "https://palsbit-ba513.firebaseio.com",
+    "project_id": "palsbit-ba513",
+    "storage_bucket": "palsbit-ba513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751808562695:android:969166cbb3cb7f68",
+        "android_client_info": {
+          "package_name": "com.phlox.palsbit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751808562695-dmkgb3dtvmtq91h8sbrqoc85urrguuro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZIHik_XxfxgVn02eIdUjtwsb-ghlN7_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751808562695-dmkgb3dtvmtq91h8sbrqoc85urrguuro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
